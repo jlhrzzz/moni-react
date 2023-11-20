@@ -31,4 +31,3 @@ npm run build
 
 ```
 npm run deploy
-```# moni-react
